@@ -1,0 +1,23 @@
+.. _php_mapscript:
+
+.. index::
+   pair: MapScript; PHP
+     
+*****************************************************************************
+ PHP MapScript
+*****************************************************************************
+
+:Release: |release|
+
+.. toctree::
+   :maxdepth: 2
+
+   php_intro
+   phpmapscript
+   migration_guide
+   by_example
+   
+.. note::
+
+   As of the 7.4.0 release PHP 7 is available through
+   MapServer's :ref:`SWIG API <swig>`.
